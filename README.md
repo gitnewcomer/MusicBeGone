@@ -1,5 +1,5 @@
-# Reggaeton Be Gone
-Detects reggaeton musical genre with Machine Learning and sends packets to disable BT speakers (hopefully)
+# Music Be Gone
+Detects a musical genre with machine learning and sends packets to disable BT speakers
 
 # Parts 
 Raspberry Pi 3 https://www.dfrobot.com/product-1703.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
